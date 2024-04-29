@@ -1,0 +1,10 @@
+Syntax:-
+           datatype[][] variable = new datatype[rowSize][columnSize];
+2D Arrays only stores "HOMOGENEOUS" data elements.
+
+Initialization :-
+
+   1]  int[][] arr = new int[3][3];
+   2]  int[][] arr = {{1,2,3},{4,5,6},{7,8,9}};   3*3 -> 9 elements.
+
+  In order to initialize an 2D array you must define the rowSize, defining the columnSize in not a mandatory.
